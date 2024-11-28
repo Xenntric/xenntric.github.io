@@ -2244,7 +2244,7 @@ input, select, textarea {
 
 			#main > section.dark {
 				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				color: rgb(145, 255, 0);
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2275,7 +2275,7 @@ input, select, textarea {
 				background-color: #81918E;
 				width: auto;
 				height: auto;
-				background-image: url("../../images/PERSONAL/replacementBanner.jpg");
+				background-image: url("../../images/PERSONAL/banner.JPG");
 			}
 
 			#main > section.two {
